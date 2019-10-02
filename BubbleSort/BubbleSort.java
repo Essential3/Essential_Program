@@ -1,10 +1,10 @@
+package BubbleSort;
+
 import java.util.Arrays;
+import java.util.*;
  
 /**
 * Java program to implement bubble sort algorithm and sort integer array using
-* that method.
-*
-* @author Javin Paul
 */
 public class BubbleSort{
  
