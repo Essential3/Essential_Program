@@ -1,8 +1,13 @@
+package Reverse_String;
+
+//import java.util.Scanner;
 public class StringReverseExample {
  
  
     public static void main(String args[]) {
-     
+//use scanner class for input     
+     //Scanner scan=new Scanner(System.in);
+     //String wrd=next();
         //quick wasy to reverse String in Java - Use StringBuffer
         String word = "HelloWorld";
         String reverse = new StringBuffer(word).reverse().toString();
